@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+nav{
+    background: brown;
+    padding: 2em;
+    text-align: right;
+    width: 1000px;
+    margin: 0 auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 1em;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
